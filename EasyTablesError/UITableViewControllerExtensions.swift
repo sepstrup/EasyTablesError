@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-extension UITableViewController {
+public extension UITableViewController {
     
     func highlightError(cell: UITableViewCell) {
         
